@@ -81,10 +81,10 @@ function cb12() {
 }
 
 function cb1() {
-    if( 1 < currentHour ){
+    if( 13 < currentHour ){
         ta1.classList.add('past')
     } else if (
-        1 > currentHour 
+        13 > currentHour 
     ) {
         ta1.classList.add('future')
     } else {
@@ -93,10 +93,10 @@ function cb1() {
 }
 
 function cb2() {
-    if( 2 < currentHour ){
+    if( 14 < currentHour ){
         ta2.classList.add('past')
     } else if (
-        2 > currentHour 
+        14 > currentHour 
     ) {
         ta2.classList.add('future')
     } else {
@@ -105,10 +105,10 @@ function cb2() {
 }
 
 function cb3() {
-    if( 3 < currentHour ){
+    if( 15 < currentHour ){
         ta3.classList.add('past')
     } else if (
-        3 > currentHour 
+        15 > currentHour 
     ) {
         ta3.classList.add('future')
     } else {
@@ -117,10 +117,10 @@ function cb3() {
 }
 
 function cb4() {
-    if( 4 < currentHour ){
+    if( 16 < currentHour ){
         ta4.classList.add('past')
     } else if (
-        4 > currentHour 
+        16 > currentHour 
     ) {
         ta4.classList.add('future')
     } else {
@@ -129,10 +129,10 @@ function cb4() {
 }
 
 function cb5() {
-    if( 5 < currentHour ){
+    if( 17 < currentHour ){
         ta5.classList.add('past')
     } else if (
-        5 > currentHour 
+        17 > currentHour 
     ) {
         ta5.classList.add('future')
     } else {
